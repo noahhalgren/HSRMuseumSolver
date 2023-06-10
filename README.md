@@ -3,6 +3,8 @@
 
 This is some code to find the most optimal placement of each worker in the different museum rooms. I know this code is super innoficient and could be made x1000 faster, but it runs in under 5 seconds with 2 rooms and 12 workers, so for now it's good enough. When I get to the point where more rooms and workers are unlocked and this thing gets slower, maybe I'll return and make it faster.
 
+![Screenshot0.5](https://i.imgur.com/3VO9I3m.png)
+
 This code will return the most optimal placement of each worker in your rooms based on stats and requirements. If a perfect S score for each room is not possible, it will give the combination where you gain the highest score possible per room, as well as an orientation that requires the least ammount of upgrades in each room to achieve an S.
 
 
