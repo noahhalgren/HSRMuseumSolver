@@ -1,0 +1,13 @@
+# format goes: name (ONE WORD), tour dur, edu val, vis app
+serval 68 57 10
+peak 44 54 10
+rossy 54 54 0
+child 8 58 42
+julian 52 20 36
+gilbert 36 40 20
+lila 52 14 30
+fersman 50 29 17
+pela 30 30 30
+amo 40 8 30
+elaine 26 26 26
+fan 20 44 14
