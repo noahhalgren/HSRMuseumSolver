@@ -1,8 +1,13 @@
 # format goes: name (ONE WORD), tour dur, edu val, vis app
+clara 15 75 78
+natasha 56 15 64
 serval 68 57 10
+perkins 42 22 65
+gertie 10 66 50
+fiodra 63 0 63
 peak 44 54 10
+enfantrusee 8 58 42
 rossy 54 54 0
-child 8 58 42
 julian 52 20 36
 gilbert 36 40 20
 lila 52 14 30
@@ -10,4 +15,8 @@ fersman 50 29 17
 pela 30 30 30
 amo 40 8 30
 elaine 26 26 26
-fan 20 44 14
+admiratrice 20 44 14
+manya 66 60 15
+eric 78 9 39
+hook 80 0 76
+wallace 56 72 40
