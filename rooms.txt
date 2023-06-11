@@ -1,4 +1,5 @@
 # format goes: room name (ONE WORD), tour dur needed, edu val needed, vis app needed, base tour dur, base edu val, base vis app
 # base values come from upgrades. they are the value when no workers are assigned to a room
-exterior 228 195 235 100 90 130
-interior 285 275 190 90 140 120
+exterior 304 270 370 200 90 190
+interior 310 300 204 170 200 130
+industrial 225 280 320 180 190 150
